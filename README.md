@@ -1,6 +1,6 @@
 # Prayas Chavda - Portfolio Website
 
-A modern, responsive portfolio website for Prayas Chavda, an AI Engineer and Full-Stack Developer specializing in Generative AI, NLP, and web development.
+A modern, responsive portfolio website for Prayas Chavda, an AI Engineer and Full-Stack Developer specializing in Generative AI, NLP and web development.
 
 ## 🌟 Features
 
@@ -15,9 +15,9 @@ A modern, responsive portfolio website for Prayas Chavda, an AI Engineer and Ful
 ### Technical Implementation
 - **Progressive Web App (PWA)**: Installable app with offline capabilities
 - **Performance Optimized**: Fast loading with lazy loading and efficient animations
-- **SEO Optimized**: Structured data, meta tags, and semantic HTML
+- **SEO Optimized**: Structured data, meta tags and semantic HTML
 - **Accessibility Enhanced**: WCAG compliant with keyboard navigation and screen reader support
-- **Modern CSS**: CSS Grid, Flexbox, custom properties, and modern features
+- **Modern CSS**: CSS Grid, Flexbox, custom properties and modern features
 - **TypeScript Ready**: Modern JavaScript with error handling and monitoring
 
 ### Interactive Elements
@@ -124,7 +124,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/prayaschavda/prayaschavda.github.io/issues).
+Contributions, issues and feature requests are welcome! Feel free to check the [issues page](https://github.com/prayaschavda/prayaschavda.github.io/issues).
 
 ## ⭐ Show Your Support
 
@@ -133,3 +133,4 @@ Give a ⭐️ if you like this project!
 ---
 
 **Made with ❤️ by Prayas Chavda**
+
