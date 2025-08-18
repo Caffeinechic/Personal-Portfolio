@@ -114,17 +114,13 @@ php -S localhost:8000
 
 ## 📧 Contact
 
-- **Email**: prayas.chavda.dev@gmail.com
+- **Email**: chavdaprayas@gmail.com
 - **LinkedIn**: [linkedin.com/in/chavdaprayas](https://linkedin.com/in/chavdaprayas)
-- **GitHub**: [github.com/prayaschavda](https://github.com/prayaschavda)
+- **GitHub**: [github.com/prayaschavda]([https://github.com/Caffeinechic])
 
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome! Feel free to check the [issues page](https://github.com/prayaschavda/prayaschavda.github.io/issues).
 
 ## ⭐ Show Your Support
 
@@ -133,5 +129,6 @@ Give a ⭐️ if you like this project!
 ---
 
 **Made with ❤️ by Prayas Chavda**
+
 
 
