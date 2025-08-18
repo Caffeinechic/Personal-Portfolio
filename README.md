@@ -1,6 +1,6 @@
 # Prayas Chavda - Portfolio Website
 
-A modern, responsive portfolio website for Prayas Chavda, an AI Engineer and Full-Stack Developer specializing in Generative AI, NLP and web development.
+A modern, responsive portfolio website from Prayas Chavda, an AI Engineer and Full-Stack Developer specializing in Generative AI, NLP and web development.
 
 ## 🌟 Features
 
@@ -133,4 +133,5 @@ Give a ⭐️ if you like this project!
 ---
 
 **Made with ❤️ by Prayas Chavda**
+
 
